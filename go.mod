@@ -20,7 +20,7 @@ require (
 	github.com/vvakame/sdlog v0.0.0-20200409072131-7c0d359efddc
 	github.com/xanzy/go-gitlab v0.38.1
 	go.opencensus.io v0.22.4
-	golang.org/x/build v0.0.0-20200616162219-07bebbe343e9
+	golang.org/x/build v0.0.0-20201005195938-df6c66fe5838
 	golang.org/x/net v0.0.0-20201002202402-0a1ea396d57c
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
 	golang.org/x/sync v0.0.0-20200930132711-30421366ff76
